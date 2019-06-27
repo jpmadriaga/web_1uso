@@ -279,11 +279,12 @@ figcaption {
 
 .main-h1.bold.home {
   margin-top: 0px;
+  margin-bottom: 5px;
 }
 
 .main-h1.home {
-  font-size: 25vh;
-  line-height: 22vh;
+  font-size: 24vh;
+  line-height: 28vh;
 }
 
 .paragraph {
